@@ -1,0 +1,7 @@
+langchain>=1.0
+langchain-anthropic
+langchain-tavily
+langgraph
+pydantic
+python-dotenv
+requests
