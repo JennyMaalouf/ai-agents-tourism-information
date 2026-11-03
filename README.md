@@ -28,3 +28,7 @@ and currency tools.
 Enter a destination, dates, and interests. After the itinerary is shown, enter
 follow-up requests to revise it or press Enter to finish. Conversation memory is
 kept in memory for the duration of the process.
+
+## LangSmith tracing
+
+View traces in the [trip-planner LangSmith project](https://eu.smith.langchain.com/o/dc21c80b-309a-4ded-9747-e052c5a5224b/a/trip-planner/projects/p/01a1a135-3318-7b71-8ca5-6197598af702).
