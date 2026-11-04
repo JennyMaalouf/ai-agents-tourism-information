@@ -5,3 +5,5 @@ langgraph
 pydantic
 python-dotenv
 requests
+streamlit
+
