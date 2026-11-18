@@ -1,0 +1,9 @@
+Title: CAT-203 catalyst light-off temperature screening
+Record type: Illustrative synthetic catalyst bench report
+Test date: 2025-06-02
+
+Test setup: A fresh catalyst sample was heated from 150 deg C to 450 deg C at a controlled ramp rate with a fixed synthetic exhaust composition. T50 is the measured catalyst-bed temperature at which a pollutant reaches 50% conversion. The reported values are illustrative screening results averaged over two runs.
+
+Measured results: CO T50 was 238 °C, THC T50 was 271 °C, and NOx T50 was 254 °C. At 300 °C, measured conversion was 78% for CO, 62% for THC, and 70% for NOx.
+
+Interpretation: In this screening run, CO reached 50% conversion at the lowest temperature and THC at the highest temperature. These measurements describe a controlled temperature ramp, not a complete cold-start vehicle test. The values are synthetic and not compliance data.

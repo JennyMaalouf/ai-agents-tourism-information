@@ -1,0 +1,9 @@
+Title: CAT-201 three-way catalyst conversion at stabilized conditions
+Record type: Illustrative synthetic catalyst bench report
+Test date: 2025-04-16
+
+Test setup: A three-way catalyst sample was evaluated after 20 minutes at 500 deg C with a controlled stoichiometric exhaust feed. Inlet and outlet gas analyzers were zeroed before each run. Conversion efficiency is calculated from paired inlet and outlet concentrations as 100 x (inlet - outlet) / inlet. Three repeat measurements were averaged.
+
+Measured results: Mean inlet CO was 1,200 ppm and outlet CO was 96 ppm, giving 92.0% CO conversion. Mean inlet THC was 180 ppmC and outlet THC was 27 ppmC, giving 85.0% THC conversion. Mean inlet NOx was 420 ppm and outlet NOx was 50.4 ppm, giving 88.0% NOx conversion. Outlet CO2 concentration was not used to calculate pollutant conversion.
+
+Interpretation: At this stabilized 500 deg C condition, CO conversion was highest, followed by NOx and THC conversion. These results do not describe cold-start or transient performance. Conversion percentages are specific to this synthetic test setup and are not certified measurements.

@@ -1,0 +1,9 @@
+Title: ENG-102 engine load sweep emissions response
+Record type: Illustrative synthetic engine-bench report
+Test date: 2025-03-04
+
+Test setup: The same 2.0 L development engine family was warmed to operating temperature and tested at 2,000 rpm at three dynamometer loads. Samples were collected upstream of after-treatment. Values below are means of three 60-second samples at each point.
+
+Measured results: At 40 N·m, CO was 0.76 g/kWh, THC was 0.24 g/kWh, NOx was 0.42 g/kWh, and CO2 was 548 g/kWh. At 80 N·m, CO was 1.39 g/kWh, THC was 0.30 g/kWh, NOx was 0.66 g/kWh, and CO2 was 608 g/kWh. At 120 N·m, CO was 2.05 g/kWh, THC was 0.38 g/kWh, NOx was 0.91 g/kWh, and CO2 was 672 g/kWh.
+
+Interpretation: In this illustrative sweep, all four reported mass-specific quantities increased as load increased. This is a within-test observation only; it does not identify a causal calibration effect and does not represent a driving cycle. The values are synthetic and not compliance data.

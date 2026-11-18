@@ -1,0 +1,9 @@
+Title: CAT-202 catalyst thermal-aging comparison
+Record type: Illustrative synthetic catalyst bench report
+Test date: 2025-05-09
+
+Test setup: Fresh and thermally aged samples from the same illustrative catalyst batch were tested at 500 deg C under the same controlled stoichiometric exhaust feed. The aged sample had first undergone a synthetic 50-hour high-temperature aging cycle. Conversion efficiency was calculated from paired inlet and outlet concentrations. Each value is the mean of three runs.
+
+Measured results: Fresh-sample conversion was 92.0% for CO, 85.0% for THC, and 88.0% for NOx. After thermal aging, conversion was 84.0% for CO, 71.0% for THC, and 76.0% for NOx. The fresh-to-aged decreases were 8 percentage points for CO, 14 percentage points for THC, and 12 percentage points for NOx.
+
+Interpretation: Under this one matched stabilized condition, THC conversion showed the largest absolute decrease after the illustrative aging treatment. The test does not isolate all aging mechanisms or establish durability in vehicle operation. These synthetic values are not certified measurements.

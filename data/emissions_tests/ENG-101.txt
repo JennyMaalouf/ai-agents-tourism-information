@@ -1,0 +1,9 @@
+Title: ENG-101 steady-state engine emissions baseline
+Record type: Illustrative synthetic engine-bench report
+Test date: 2025-02-11
+
+Test setup: A 2.0 L turbocharged spark-ignition development engine was tested on a dynamometer at 2,000 rpm and 80 N·m after coolant and oil temperatures stabilized. The fuel was a laboratory reference gasoline blend. The engine-out sampling point was upstream of any after-treatment device. Each reported value is the mean of three 60-second samples.
+
+Measured results: Engine-out carbon monoxide (CO) was 1.42 g/kWh, total hydrocarbons (THC) were 0.31 g/kWh, nitrogen oxides (NOx) were 0.68 g/kWh, and carbon dioxide (CO2) was 612 g/kWh. Exhaust oxygen was 0.72% by volume. Repeat-run spread was within 3% of the reported mean for each listed pollutant.
+
+Interpretation: This record is a steady-state baseline at one operating point. It cannot establish a full-cycle emissions result or be compared directly with measurements taken using a different fuel, load, sampling method, or unit basis. The values are synthetic and not compliance data.
